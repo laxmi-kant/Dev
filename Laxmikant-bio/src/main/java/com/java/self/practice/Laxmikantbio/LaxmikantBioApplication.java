@@ -11,5 +11,7 @@ public class LaxmikantBioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LaxmikantBioApplication.class, args);
+		System.out.println("app started ");
 	}
+	
 }
